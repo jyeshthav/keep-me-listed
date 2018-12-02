@@ -1,0 +1,21 @@
+body{
+    background-color: #4caf50;
+}
+
+.all-lists{
+    height: 100%;
+    width: 100%;
+    border-top-width: 0px; 
+}
+
+.fixed-action-btn{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+.card-content{
+    background-color: #fff176;
+    overflow: auto;
+}
+
