@@ -10,7 +10,7 @@ include('scripts/php/auth.php');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>First</title>
+    <title>Keep Me Listed</title>
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link href="https://cdn.jsdelivr.net/jquery.webui-popover/1.2.1/jquery.webui-popover.min.css" rel="stylesheet" />
@@ -22,9 +22,9 @@ include('scripts/php/auth.php');
 <body>
         <nav class="nav-wrapper pink darken-3">
             <div class="container">
-                <a id="logo-container" href="dash.php" class="brand-logo">KeepMeListed</a>  
+                <a id="logo-container" href="index.php" class="brand-logo">KeepMeListed</a>  
                 <ul class="right">
-                    <li class="active"><a href="index.php">Home</a></li>
+                    <li class="active"><a href="dash.php">Home</a></li>
                     <li><a href="#" id="login">Log In</a></li>
                 </ul>
             </div>

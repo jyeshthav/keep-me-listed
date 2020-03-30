@@ -30,11 +30,10 @@ include('scripts/php/news.php');
 <body>
     <nav class="nav-wrapper pink darken-3">
         <div class="container">
-            <a id="logo-container" href="#" class="brand-logo">KeepMeListed</a>
+            <a id="logo-container" href="index.php" class="brand-logo">KeepMeListed</a>
             <ul class="right">
                 <li><a href="#listModal" class="modal-trigger">New</a></li>
                 <li class="active"><a href="#">My Lists</a></li>
-                <li><a href="index.php">Home</a></li>
                 <li><a href="dash.php?logout='1'">Log Out</a></li>
             </ul>   
         </div>
